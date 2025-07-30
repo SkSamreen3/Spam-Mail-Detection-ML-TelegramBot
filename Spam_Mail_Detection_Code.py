@@ -137,7 +137,7 @@ from sklearn.linear_model import LogisticRegression
 import joblib
 
 # Define the Telegram bot token
-TOKEN = '6145638408:AAE2tcK7p6OVv9nLNcVbxSGX6yyD7n4BWb8'
+TOKEN = 'KEEP YOUR TOKEN ID'
 
 # Load the data and preprocess it
 mail_data = pd.read_csv('/content/mail_data.csv')
